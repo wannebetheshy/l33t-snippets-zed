@@ -1,0 +1,12 @@
+{
+  "L33t Hello": {
+    "prefix": "leet",
+    "body": "h3ll0 w0rld 7h15 15 4 7357",
+    "description": "l33tspeak hello world"
+  },
+  "L33t Hacker": {
+    "prefix": "l33t",
+    "body": "1 4m 4 h4x0r",
+    "description": "l33tspeak hacker phrase"
+  }
+}

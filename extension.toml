@@ -1,0 +1,9 @@
+id = "l33t-snippets"
+name = "L33t Snippets"
+description = "L33tspeak snippets for Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["wannebetheshy"]
+repository = "https://github.com/wannebetheshy/l33t-snippets-zed"
+
+snippets = ["./snippets/python.json"]
